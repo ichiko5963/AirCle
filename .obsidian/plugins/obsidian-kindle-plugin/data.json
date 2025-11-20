@@ -1,0 +1,9 @@
+{
+  "amazonRegion": "japan",
+  "highlightsFolder": "02_Config/Books",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2025-08-25T01:57:45.103Z"
+}

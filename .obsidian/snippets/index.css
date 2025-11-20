@@ -1,0 +1,179 @@
+/* --- 変数定義 --- */
+:root {
+    /* Cornell Note Variables */
+    --cornell-cue-column-width: 150px;
+    --cornell-cue-column-width-readable-line: 150px;
+    --cornell-cue-callout-width: 158px;
+    --cornell-cue-callout-width-readable-line: 158px;
+    --cornell-border-padding: 10px;
+  
+    /* General Variables */
+    --bold-color: #42f58d; /* 太字の色 */
+  
+    /* Theme-Specific Variables */
+    .theme-light {
+      --cornell-border-color: #808080;
+    }
+  
+    .theme-dark {
+      --cornell-border-color: #373535;
+    }
+  }
+  
+  /* --- Cornell Note: アイコン定義 (キューのみ) --- */
+  .cornell-left [data-callout="cue"] {
+    /* 現在設定されているアイコン (例: flag) */
+    --callout-icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-flag-icon lucide-flag"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" x2="4" y1="22" y2="15"/></svg>';
+  }
+  
+  /* --- Cornell Note: レイアウトとスタイル --- */
+  @media (min-width: 400px) {
+    /* Cue Callout Padding */
+    .markdown-source-view.cornell-livepreview.cornell-left [data-callout="cue"],
+    .markdown-preview-view.cornell-left [data-callout="cue"] {
+      padding-left: 15px !important;
+      padding-right: 10px !important;
+    }
+  
+    /* Cue Callout Display (Live Preview) */
+    .markdown-source-view.cornell-livepreview.cornell-left [data-callout="cue"] {
+      display: inline;
+      border-left: 0px;
+    }
+  
+    /* Cue Callout Base Style */
+    .markdown-source-view.cornell-livepreview.cornell-left [data-callout="cue"],
+    .markdown-preview-view.cornell-left [data-callout="cue"] {
+      background-color: transparent !important;
+      padding: 0px;
+      z-index: 999;
+  
+      .callout-title {
+        background-color: transparent !important;
+        border: 0px !important;
+      }
+  
+      .callout-icon {
+        display: none; /* Hide default icon element */
+      }
+    }
+  
+    /* Cue Positioning (Normal Width) */
+    .markdown-source-view.cornell-livepreview.cornell-left:not(
+        .is-readable-line-width
+      )
+      .cm-scroller
+      .cm-embed-block:has([data-callout="cue"]),
+    .markdown-preview-view.cornell-left:not(.is-readable-line-width)
+      .markdown-preview-section
+      [data-callout="cue"],
+    .markdown-preview-view.cornell-left:not(.is-readable-line-width)
+      [data-callout="cue"] {
+      background-color: transparent !important;
+      border: 0px !important;
+      margin: 0px;
+      position: absolute;
+      width: var(--cornell-cue-callout-width);
+      overflow: hidden;
+      left: 0px;
+  
+      .callout-content {
+        border: 0px;
+      }
+    }
+  
+    /* Main Content Padding (Normal Width) */
+    .markdown-source-view.cornell-livepreview.cornell-left:not(
+        .is-readable-line-width
+      )
+      .cm-scroller,
+    .markdown-preview-view.cornell-left:not(.is-readable-line-width) {
+      padding-left: var(--cornell-cue-column-width) !important;
+    }
+  
+    /* Main Content Margin (Readable Width) */
+    .markdown-source-view.cornell-livepreview.cornell-left.is-readable-line-width
+      .cm-sizer,
+    .markdown-preview-view.cornell-left.is-readable-line-width
+      > .markdown-preview-section {
+      margin-left: var(--cornell-cue-column-width-readable-line) !important;
+      width: auto;
+    }
+  
+    /* Cue Positioning (Readable Width) */
+    .markdown-source-view.cornell-livepreview.cornell-left.is-readable-line-width
+      .cm-sizer
+      .cm-embed-block:has([data-callout="cue"]),
+    .markdown-preview-view.cornell-left.is-readable-line-width
+      > .markdown-preview-section
+      [data-callout="cue"] {
+      background-color: transparent !important;
+      border: 0px !important;
+      position: absolute !important;
+      margin: 0px;
+      width: var(--cornell-cue-callout-width-readable-line) !important;
+      left: 0px;
+  
+      .callout-content {
+        border: 0px;
+      }
+    }
+  
+    /* Cue Padding (Readable Width, Live Preview) */
+    .markdown-source-view.cornell-livepreview.cornell-left.is-readable-line-width
+      .cm-sizer
+      .cm-embed-block:has([data-callout="cue"]) {
+      padding-left: 10px;
+    }
+  
+    /* Left Border */
+    .cornell-livepreview.cornell-left .cm-sizer,
+    .cornell-left > .markdown-preview-sizer {
+      border-left: 1px solid var(--cornell-border-color) !important;
+      padding-left: var(--cornell-border-padding);
+    }
+  }
+  
+  /* --- Cornell Note: Print Styles --- */
+  @media print {
+    .markdown-preview-view.cornell-left [data-callout="cue"] {
+      width: var(--cornell-cue-column-width) !important;
+    }
+  }
+  
+  /* ===== ここから追加したCSS ===== */
+  
+  /* --- フォント設定 --- */
+  .mm-node-content,
+  .mm-list {
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  
+  /* --- 行間設定 --- */
+  .cm-contentContainer {
+    line-height: 1.55;
+  }
+  
+  /* --- プラグイン調整: Copilot --- */
+  /* copilot pluginの関連ノートのための、hotfix、chat-container内にある .max-h-96 を上書き */
+  .chat-container .max-h-96 {
+    max-height: 72rem !important;
+  }
+  
+  /* --- プラグイン調整: Soundscapes --- */
+  .soundscapesroot .soundscapesroot-nowplaying {
+    display: none;
+  }
+  
+  /* --- ステータスバー項目非表示 --- */
+  .status-bar-item.mod-clickable {
+    display: none;
+  }
+  
+  .status-bar-item.plugin-pane-relief {
+    display: none;
+  }
+  
+  /* --- 太字の色 (太字のスタイルは別途適用が必要) --- */
+  /* :root body { --bold-color: #42f58d; } は :root に統合 */
+  

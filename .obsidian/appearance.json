@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#d3a2fb",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "index"
+  ]
+}

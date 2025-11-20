@@ -1,0 +1,42 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 837 >> stream
+BT
+/F1 11 Tf
+1 0 0 1 40 760 Tm
+(Aircle Org Structure 2025) Tj
+T*
+(経営部 \(Lead: 市岡\) ──▶ 方針・KPI・提携) Tj
+T*
+(  ├ 営業部 \(Lead: 大前\) ──▶ AIインフルエンサー/法人営業) Tj
+T*
+(  ├ 外部マーケ＆企画部 \(Lead: 大山\) ──▶ 告知・デザイン・SNS) Tj
+T*
+(  ├ 企画運営部 \(Lead: 折井\) ──▶ 勉強会/Slack活性化) Tj
+T*
+(  │    ├ ChatGPT: 大前 / 小塚  │ Gemini: Yusuke / Tanasuke) Tj
+T*
+(  │    └ Claude: 大鳥 ─ Suno/Veo3: 松竹 / YUKI ─ n8n: 折井) Tj
+T*
+(  ├ 人材交流部 \(Lead: 笹木\) ──▶ 交流会・面談・オンボーディング) Tj
+T*
+(  ├ 対面イベント企画部 \(Lead: Yusuke\) ──▶ Re Tokyo / 協賛) Tj
+T*
+(  └ 技術・開発 \(Lead: TK\) ──▶ Lark / Ryucle / 社内チャット) Tj
+ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001129 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1199
+%%EOF

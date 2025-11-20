@@ -1,0 +1,520 @@
+{
+  "main": {
+    "id": "f446c8b412d833d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a9b11db0dff18b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d556b9823dc767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/AirCle/AirCle：セミナー/Notion × Raycast × GASで実現する「開かないタスク管理」/01_告知関連/Peatix/Peatixイベントページ設定.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peatixイベントページ設定"
+            }
+          },
+          {
+            "id": "3a1d914b7fefdc44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/【ひゃくえむ】狂気の中に身を置くことの大事さ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【ひゃくえむ】狂気の中に身を置くことの大事さ"
+            }
+          },
+          {
+            "id": "f98617a218d0aedd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2025-11-12 09.03.46.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "7266a72797bdc394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/AirCle/1_運営チーム/Slack運用ルール.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slack運用ルール"
+            }
+          },
+          {
+            "id": "21da951d0226ce96",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "608c0fb458e23c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/AirCle/5_広報・マーケティング/new-create-rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new-create-rule"
+            }
+          },
+          {
+            "id": "7811f0ec6c69e654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VideoPocket.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VideoPocket"
+            }
+          },
+          {
+            "id": "05322e9ee61a72d7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "07-To Do/Project_Kanban.md.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Project_Kanban.md"
+            }
+          },
+          {
+            "id": "88077fef718ca906",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          },
+          {
+            "id": "557481ec7d970e8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2025-11-02 18.33.44.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "f4165b7f3cd2d441",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "01_Notes/無題のファイル.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "9926c43680f08658",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "01_Notes/無題のファイル 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "無題のファイル 1"
+            }
+          },
+          {
+            "id": "c580c747472f1fef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2025-11-11 10.13.49.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "e9ca2f87810ac3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/【ひゃくえむ】狂気の中に身を置くことの大事さ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【ひゃくえむ】狂気の中に身を置くことの大事さ"
+            }
+          },
+          {
+            "id": "14b1b25ee07a16af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/VideoPocket/structured/task_matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "task_matrix"
+            }
+          },
+          {
+            "id": "f3861f1c3adfa70f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "02_Config/Pasted Image 20251104130219_091.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20251104130219_091"
+            }
+          },
+          {
+            "id": "f17bb8a3e3cbf032",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "07-To Do/Project_Kanban.md.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Project_Kanban.md"
+            }
+          },
+          {
+            "id": "19ba377f6da8d68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Daily/2025-11-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-19"
+            }
+          },
+          {
+            "id": "ffd5afe9c84d8682",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2025-11-14 20.23.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-14 20.23.33.excalidraw"
+            }
+          },
+          {
+            "id": "d6ab582e10ea3fd7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "07-To Do/Project_Kanban.md.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Project_Kanban.md"
+            }
+          }
+        ],
+        "currentTab": 19
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be1272fd40c454d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e68495bb23b5197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d50a93d830957b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "b51d27fd1896211f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "31aac90182649d06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "e76221e18aff3b4e",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
+          },
+          {
+            "id": "6d63f31bbc101fbc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9f274a9abbe60eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b123bca5029406eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f90b30e27be438",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07-To Do/Task_Center.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Task_Center.mdへのバックリンク"
+            }
+          },
+          {
+            "id": "8d00cf9528532775",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07-To Do/Task_Center.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Task_Center.mdからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "856516752db95149",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "b5e5ccc82f907058",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07-To Do/Task_Center.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Task_Center.mdのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 493.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
+    }
+  },
+  "active": "d6ab582e10ea3fd7",
+  "lastOpenFiles": [
+    "04_Project/AirCle/5_広報・マーケティング/Obsidianで一元管理を実現する/01_告知関連/X投稿/04_価値_訴求.md",
+    "04_Project/AirCle/5_広報・マーケティング/Obsidianで一元管理を実現する/01_告知関連/オープンチャット/06-5_再募集予告_1時間前.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー.zip",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要/セミナー詳細ページ.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要/コンセプト・ターゲット整理.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要/セミナータイトル案.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ/申込者数・参加者数.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ/次回改善点.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ/参加者アンケートまとめ.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/特典メール.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/有料特典メール.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/有料note投稿案.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/タスク管理.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/タイムライン.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/イベント終了後のタスク.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/Q&A想定集.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/04_次回以降のアクションプラン/分析レポート.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/04_次回以降のアクションプラン",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/告知3回目.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/追加枠150名報告.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/告知2回目.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/告知1回目.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/10_前回参加者向け特別案内.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/09_アーカイブ案内メール.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/08_お礼&これからもAirCleよろしくメール.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/07_当日受付開始告知.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/06_リマインド.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/05_追加枠150名報告.md",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/オープンチャット",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/X投稿",
+    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/Peatix",
+    "02_Config/Pasted Image 20251119180317_519.png",
+    "02_Config/Pasted Image 20251119180252_578.png",
+    "02_Config/Pasted Image 20251119180214_561.png",
+    "02_Config/Pasted Image 20251119180152_511.png",
+    "02_Config/Pasted Image 20251119180132_637.png",
+    "02_Config/Pasted Image 20251119155840_906.png",
+    "09-開発/2_実装/Chat Organ AI/node_modules/date-fns/docs/logotype.svg",
+    "09-開発/2_実装/Chat Organ AI/node_modules/date-fns/docs/logo.svg",
+    "09-開発/2_実装/Chat Organ AI/node_modules/xlsx/formats.png",
+    "09-開発/2_実装/Chat Organ AI/node_modules/xlsx/legend.png",
+    "無題のファイル.canvas",
+    "無題のファイル 1.canvas"
+  ]
+}
