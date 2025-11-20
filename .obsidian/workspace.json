@@ -275,22 +275,14 @@
             "id": "d6ab582e10ea3fd7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "07-To Do/Project_Kanban.md.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "01_Notes/無題のファイル 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Project_Kanban.md"
+              "icon": "lucide-file",
+              "title": "無題のファイル 1"
             }
           }
         ],
@@ -443,13 +435,23 @@
               "icon": "lucide-list",
               "title": "Task_Center.mdのアウトライン"
             }
+          },
+          {
+            "id": "61e997bb90cb01c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 493.5,
-    "collapsed": true
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -463,11 +465,13 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:カンバンボードを新規作成": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d6ab582e10ea3fd7",
   "lastOpenFiles": [
+    "07-To Do/Project_Kanban.md.md",
     "04_Project/AirCle/5_広報・マーケティング/Obsidianで一元管理を実現する/01_告知関連/X投稿/04_価値_訴求.md",
     "04_Project/AirCle/5_広報・マーケティング/Obsidianで一元管理を実現する/01_告知関連/オープンチャット/06-5_再募集予告_1時間前.md",
     "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー.zip",
@@ -498,7 +502,6 @@
     "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/08_お礼&これからもAirCleよろしくメール.md",
     "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/07_当日受付開始告知.md",
     "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/06_リマインド.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/05_追加枠150名報告.md",
     "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE",
     "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ",
     "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/オープンチャット",

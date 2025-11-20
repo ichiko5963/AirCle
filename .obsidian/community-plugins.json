@@ -10,5 +10,6 @@
   "dataview",
   "templater-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-git"
 ]

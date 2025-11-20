@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル 1",
+      "path": "01_Notes/無題のファイル 1.md"
+    },
+    {
       "basename": "Project_Kanban.md",
       "path": "07-To Do/Project_Kanban.md.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Peatixイベントページ設定",
       "path": "04_Project/AirCle/5_広報・マーケティング/AIで最短収益化！ゼロから始めるオンライン講座構築術/01_告知関連/Peatix/Peatixイベントページ設定.md"
-    },
-    {
-      "basename": "Slack運用ルール",
-      "path": "04_Project/AirCle/1_運営チーム/Slack運用ルール.md"
     }
   ],
   "omittedPaths": [],
