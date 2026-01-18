@@ -340,3 +340,6 @@ ObsidianGuild今後の展望・有料コンテンツ企画MTG
 
 
 
+
+
+

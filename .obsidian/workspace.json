@@ -277,16 +277,190 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/無題のファイル 1.md",
+                "file": "04_Project/SlideBox/SlideBox 全要素統合ドキュメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル 1"
+              "title": "SlideBox 全要素統合ドキュメント"
+            }
+          },
+          {
+            "id": "bacf673e3c3f7472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/VideoPocket/「VideoPocket」リリースLP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "「VideoPocket」リリースLP"
+            }
+          },
+          {
+            "id": "3d947622603b5222",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "23b6901d5b7c7243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2025-12-02 15.31.02.excalidraw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drawing 2025-12-02 15.31.02.excalidraw"
+            }
+          },
+          {
+            "id": "bb2df9dc25361e86",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2025-10-08 09.47.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-08 09.47.38.excalidraw"
+            }
+          },
+          {
+            "id": "9b5450366553bd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Daily/2025-12-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-12"
+            }
+          },
+          {
+            "id": "9febcecbaadcf4ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/AirCle/0_AirCle議事録/ObsidianGuild/2025-11-15_ObsidianGuild今後の展望MTG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-15_ObsidianGuild今後の展望MTG"
+            }
+          },
+          {
+            "id": "d6c17aa5a5557968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/約束を守ることは大事.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "約束を守ることは大事"
+            }
+          },
+          {
+            "id": "7e3abd97d7415878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/AirCle/5_広報・マーケティング/new-create-rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new-create-rule"
+            }
+          },
+          {
+            "id": "45dd751511de1660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/覚悟とは？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "覚悟とは？"
+            }
+          },
+          {
+            "id": "3d28b3cdac50f99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/00_セミナー概要/イベント企画書ドラフト.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "イベント企画書ドラフト"
+            }
+          },
+          {
+            "id": "143725160e5f41d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-07 12.14.24.excalidraw"
+            }
+          },
+          {
+            "id": "84c570f9de2a91a8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-07 12.14.27.excalidraw"
+            }
+          },
+          {
+            "id": "98a058f33078c2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 15_デプロイと公開（世界へ）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 15_デプロイと公開（世界へ）"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -363,7 +537,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "e9f274a9abbe60eb",
@@ -451,7 +625,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -469,54 +643,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6ab582e10ea3fd7",
+  "active": "98a058f33078c2d0",
   "lastOpenFiles": [
-    "07-To Do/Project_Kanban.md.md",
-    "04_Project/AirCle/5_広報・マーケティング/Obsidianで一元管理を実現する/01_告知関連/X投稿/04_価値_訴求.md",
-    "04_Project/AirCle/5_広報・マーケティング/Obsidianで一元管理を実現する/01_告知関連/オープンチャット/06-5_再募集予告_1時間前.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー.zip",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要/セミナー詳細ページ.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要/コンセプト・ターゲット整理.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要/セミナータイトル案.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/00_セミナー概要",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ/申込者数・参加者数.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ/次回改善点.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ/参加者アンケートまとめ.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/03_実績アーカイブ",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/特典メール.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/有料特典メール.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/有料note投稿案.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/タスク管理.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/タイムライン.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/イベント終了後のタスク.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連/Q&A想定集.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/02_運営関連",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/04_次回以降のアクションプラン/分析レポート.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/04_次回以降のアクションプラン",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/告知3回目.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/追加枠150名報告.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/告知2回目.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE/告知1回目.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/10_前回参加者向け特別案内.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/09_アーカイブ案内メール.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/08_お礼&これからもAirCleよろしくメール.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/07_当日受付開始告知.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ/06_リマインド.md",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/公式LINE",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/メルマガ",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/オープンチャット",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/X投稿",
-    "04_Project/AirCle/5_広報・マーケティング/Cursor × Marpで\"本質重視\"のスライド革命のコピー/01_告知関連/Peatix",
-    "02_Config/Pasted Image 20251119180317_519.png",
-    "02_Config/Pasted Image 20251119180252_578.png",
-    "02_Config/Pasted Image 20251119180214_561.png",
-    "02_Config/Pasted Image 20251119180152_511.png",
-    "02_Config/Pasted Image 20251119180132_637.png",
-    "02_Config/Pasted Image 20251119155840_906.png",
-    "09-開発/2_実装/Chat Organ AI/node_modules/date-fns/docs/logotype.svg",
-    "09-開発/2_実装/Chat Organ AI/node_modules/date-fns/docs/logo.svg",
-    "09-開発/2_実装/Chat Organ AI/node_modules/xlsx/formats.png",
-    "09-開発/2_実装/Chat Organ AI/node_modules/xlsx/legend.png",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 14_GitHubの使い方〜完全攻略〜.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 15_デプロイと公開（世界へ）.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 13_理論武装.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 12_バイブコーディングの全流れ.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 11_AI統合（Gemini API）.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/無題のフォルダ",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 10_外部データ連携（API）.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 9_認証とセキュリティ.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 6_重機を操る.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 5_基地の建設（超・基礎理解編）.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 8_データの保存とクラウドへの飛躍.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 1_バイブコーディングという革命.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 2_最強の脳みそ（Gemini 3）と対話する.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 3_魔法で加速する.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 4_神デザインを作る.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 7_バイブコーディング基礎学会.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.27.excalidraw.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ",
+    "02_Config/AirCle：ロゴ_1.png",
+    "02_Config/Pasted Image 20260107210741_161.png",
+    "02_Config/Pasted Image 20260107183846_683.png",
+    "04_Project/AirCle/AirCle：note/有料級note/Claude CodeでOpus 4.5を常にデフォルトで使う方法.md",
+    "02_Config/Pasted Image 20260107183807_108.png",
+    "02_Config/Pasted Image 20260107121443_976.png",
+    "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.24.excalidraw.md",
+    "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/00_セミナー概要/イベント企画書ドラフト.md",
+    "04_Project/AirCle/0_AirCle議事録/イベント企画/2025-11-22_AirCle×KEITOイベント企画.md",
+    "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/02_告知_メイン.md",
+    "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/01_告知_ティザー.md",
+    "01_Notes/わかりやすいプレゼンは例えば逸脱〜飯塚さん、かすみさんに学ぶ〜.md",
+    "01_Notes/【音楽】This is meは最高.md",
+    "01_Notes/【ノーコード革命】Readdy AI完全攻略.md",
+    "01_Notes/【ひゃくえむ】狂気の中に身を置くことの大事さ.md",
+    "01_Notes/無題のファイル 1.base",
+    "04_Project/ClimbBeyond/X運用講座_0→1000フォロワー完全攻略",
+    "02_Config/Pasted image 20251214161040.png",
+    "01_Notes/無題のファイル.base",
+    "02_Config/CleanShot 2025-12-14 at 15.56.00@2x.png",
+    "04_Project/AirCle/6_登壇/Gemini 3.0 × NotebookLM で学び方が変わる/02_イベント企画",
+    "04_Project/AirCle/6_登壇/Gemini 3.0 × NotebookLM で学び方が変わる/01_スライド資料",
+    "04_Project/AirCle/6_登壇/Gemini 3.0 × NotebookLM で学び方が変わる/00_ワークショップ概要",
+    "04_Project/AirCle/6_登壇/Gemini 3.0 × NotebookLM で学び方が変わる",
+    "04_Project/AirCle/6_登壇",
+    "02_Config/CleanShot 2025-12-12 at 04.05.05@2x.png",
+    "02_Config/Pasted Image 20251208211119_824.png",
+    "02_Config/Pasted Image 20251208210930_790.png",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas"
   ]

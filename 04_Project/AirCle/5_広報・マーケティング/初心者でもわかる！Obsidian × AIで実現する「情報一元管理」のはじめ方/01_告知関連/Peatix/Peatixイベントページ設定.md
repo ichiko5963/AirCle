@@ -70,3 +70,6 @@ Obsidian × AI、効率化、技術に関する情報発信者
 ・配信URL：開催前日にPeatixメッセージで送付
 ・配信方式：YouTube Live
 
+
+
+
