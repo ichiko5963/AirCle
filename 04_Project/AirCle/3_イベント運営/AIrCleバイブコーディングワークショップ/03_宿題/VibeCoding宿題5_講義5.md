@@ -315,12 +315,12 @@ Antigravityの `.env.local` ファイルに設定した環境変数を、Vercel�
 デプロイされたURLにアクセスして、以下を確認してください：
 
 - 画面が正しく表示される
-- ログイン機能が動作する（マジックリンクが届く）
+- ログイン機能が動作する（Googleでログインできる）
 - データの保存・取得ができる
 
-**4-2: Supabaseの設定を更新する（マジックリンクを使う場合）**
+**4-2: Supabaseの設定を更新する（Googleログインを使う場合）**
 
-マジックリンクでログインする場合、Supabaseの「Site URL」と「Redirect URLs」を更新する必要があります。
+Googleログインでログインする場合、Supabaseの「Site URL」と「Redirect URLs」を更新する必要があります。
 
 1. Supabaseダッシュボードを開く
 2. 「Authentication」→「URL Configuration」をクリック
@@ -334,7 +334,7 @@ Antigravityの `.env.local` ファイルに設定した環境変数を、Vercel�
    ```
 5. 「Save」をクリック
 
-これで、マジックリンクをクリックしたときに、デプロイされたアプリにリダイレクトされるようになります。
+これで、Google認証後にデプロイされたアプリにリダイレクトされるようになります。
 
 **4-3: スマホで確認する**
 
@@ -470,11 +470,11 @@ GitHubのパスワードの代わりに使う認証トークンです。セキ�
 - 環境変数が正しいか確認
 - Supabaseの「Site URL」と「Redirect URLs」が正しいか確認
 
-### マジックリンクが届かない/動かない
+### Googleログインが動かない
 
 - Supabaseの「Authentication」→「URL Configuration」を確認
+- Supabaseの「Providers」でGoogle認証が有効か確認
 - Vercelの環境変数が正しいか確認
-- メールが迷惑メールフォルダに入っていないか確認
 
 ---
 

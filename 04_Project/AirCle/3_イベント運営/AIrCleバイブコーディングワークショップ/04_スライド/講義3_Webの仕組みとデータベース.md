@@ -138,23 +138,23 @@ style: |
 
 - 今の状態だと、**世界中の全員が同じTodoリストを見ている状態**（公開掲示板）。
 - **「自分だけのデータ」** にするために、ログイン機能をつける。
-- Supabaseなら「マジックリンク」も一瞬で実装可能！
+- Supabaseなら「Googleログイン」も一瞬で実装可能！
 
 ---
 
 # 🛠️ 受付カウンター設置
 
 1. Supabaseの左メニュー `Authentication` → `Providers`
-2. **`Email`** を選択
-3. **`Enable Email provider`**: ✅ ON
-4. **`Confirm email`**: ❌ OFF（開発中はOFF推奨！）
+2. **`Google`** を選択
+3. **`Enable Google provider`**: ✅ ON
+4. Google Cloud ConsoleでOAuth 2.0のクライアントID・シークレットを取得し、Supabaseに貼り付け
 5. **`Site URL`** にAntigravityのプレビューURLを設定
 
 ---
 
 # 🛠️ 玄関を作る
 
-**指示（Antigravity）**: **「ログイン画面（Login.jsx）を作って。 Supabaseの `signInWithOtp` を使って、マジックリンクを送るようにして。 送信後は『メールを確認してください』と表示して。」**
+**指示（Antigravity）**: **「ログイン画面（Login.jsx）を作って。Supabaseの `signInWithOAuth` を使って、Googleでログインするボタンを配置して。クリックしたらGoogleの認証画面に遷移し、認証後にアプリに戻るようにして。」**
 
 ---
 
@@ -184,5 +184,5 @@ style: |
 
 **宿題**:
 - Supabaseで「買い物リスト」アプリを作る
-- マジックリンクでログイン機能をつける
+- Googleログイン機能をつける
 - 家族とURLを共有して、それぞれのリストが独立していることを確認する
