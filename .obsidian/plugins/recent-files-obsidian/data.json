@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "X投稿テンプレート50個",
+      "path": "04_Project/X投稿テンプレート50個.md"
+    },
+    {
+      "basename": "X投稿具体例50個",
+      "path": "04_Project/X投稿具体例50個.md"
+    },
+    {
+      "basename": "マーケティング体系化ドキュメント",
+      "path": "04_Project/マーケティング体系化ドキュメント.md"
+    },
+    {
+      "basename": "Drawing 2025-11-02 18.33.44.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-02 18.33.44.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-11 10.13.49.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-11 10.13.49.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-11 19.58.29.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-11 19.58.29.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-12 09.03.46.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-12 09.03.46.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-14 20.23.33.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-14 20.23.33.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-16 16.05.35.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-16 16.05.35.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-16 16.12.51.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-16 16.12.51.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-20 09.48.46.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-20 09.48.46.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-01-07 12.14.27.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.27.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2026-01-07 12.14.24.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.24.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-12-02 15.31.03.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-12-02 15.31.03.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-12-02 15.31.02.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-12-02 15.31.02.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-24 14.35.11.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-24 14.35.11.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-11-16 16.05.02.excalidraw",
+      "path": "02_Config/Plugins/Excalidraw/Drawing 2025-11-16 16.05.02.excalidraw.md"
+    },
+    {
+      "basename": "無題のファイル",
+      "path": "Excalidraw/無題のファイル.md"
+    },
+    {
+      "basename": "【図解】0-基本のメモの取り方",
+      "path": "Excalidraw/【図解】0-基本のメモの取り方.md"
+    },
+    {
+      "basename": "【図解】部下への叱り方",
+      "path": "Excalidraw/【図解】部下への叱り方.md"
+    },
+    {
+      "basename": "【図解】2-人間が物事を身につけるまで",
+      "path": "Excalidraw/【図解】2-人間が物事を身につけるまで.md"
+    },
+    {
       "basename": "Lecture 15_デプロイと公開（世界へ）",
       "path": "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 15_デプロイと公開（世界へ）.md"
     },
@@ -61,14 +145,6 @@
       "path": "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 7_バイブコーディング基礎学会.md"
     },
     {
-      "basename": "Drawing 2026-01-07 12.14.27.excalidraw",
-      "path": "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.27.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2026-01-07 12.14.24.excalidraw",
-      "path": "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.24.excalidraw.md"
-    },
-    {
       "basename": "イベント企画書ドラフト",
       "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/00_セミナー概要/イベント企画書ドラフト.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "プレゼンや話が上手い人がやっていること",
       "path": "01_Notes/プレゼンや話が上手い人がやっていること.md"
-    },
-    {
-      "basename": "どんな人間を雇うべきか？",
-      "path": "01_Notes/どんな人間を雇うべきか？.md"
-    },
-    {
-      "basename": "04_価値_訴求",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/04_価値_訴求.md"
-    },
-    {
-      "basename": "09_終了_報告",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/09_終了_報告.md"
-    },
-    {
-      "basename": "08_当日_前日",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/08_当日_前日.md"
-    },
-    {
-      "basename": "07_連携_スペース",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/07_連携_スペース.md"
-    },
-    {
-      "basename": "06_募集_追加枠",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/06_募集_追加枠.md"
-    },
-    {
-      "basename": "05_特典_告知",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/05_特典_告知.md"
-    },
-    {
-      "basename": "03_拡散_追加",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/01_告知関連/X投稿/03_拡散_追加.md"
-    },
-    {
-      "basename": "セミナータイトル案",
-      "path": "04_Project/AirCle/5_広報・マーケティング/初心者でもわかる！Obsidian × AIで実現する「情報一元管理」のはじめ方/00_セミナー概要/セミナータイトル案.md"
-    },
-    {
-      "basename": "セミナー詳細ページ",
-      "path": "04_Project/AirCle/5_広報・マーケティング/Obsidian初心者向け講座/00_セミナー概要/セミナー詳細ページ.md"
-    },
-    {
-      "basename": "セミナータイトル案",
-      "path": "04_Project/AirCle/5_広報・マーケティング/Obsidian初心者向け講座/00_セミナー概要/セミナータイトル案.md"
-    },
-    {
-      "basename": "2025-11-15_AirCle×Difyイベント企画",
-      "path": "04_Project/AirCle/0_AirCle議事録/イベント企画/2025-11-15_AirCle×Difyイベント企画.md"
-    },
-    {
-      "basename": "マーケティング体系化ドキュメント",
-      "path": "04_Project/マーケティング体系化ドキュメント.md"
-    },
-    {
-      "basename": "X投稿具体例50個",
-      "path": "04_Project/X投稿具体例50個.md"
-    },
-    {
-      "basename": "X投稿テンプレート50個",
-      "path": "04_Project/X投稿テンプレート50個.md"
-    },
-    {
-      "basename": "約束を守ることは大事",
-      "path": "01_Notes/約束を守ることは大事.md"
-    },
-    {
-      "basename": "無題のファイル 1",
-      "path": "01_Notes/無題のファイル 1.base"
-    },
-    {
-      "basename": "new-create-rule",
-      "path": "04_Project/AirCle/5_広報・マーケティング/new-create-rule.md"
-    },
-    {
-      "basename": "2025-11-15_ObsidianGuild今後の展望MTG",
-      "path": "04_Project/AirCle/0_AirCle議事録/ObsidianGuild/2025-11-15_ObsidianGuild今後の展望MTG.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DIYを検討中の方へ｜賃貸でもゼロから始められる「2025年版」初心者ガイド</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --color-bg: #faf8f5;
+      --color-surface: #ffffff;
+      --color-primary: #8b5a2b;
+      --color-primary-light: #c4a574;
+      --color-accent: #d4a574;
+      --color-text: #2c2c2c;
+      --color-text-muted: #5c5c5c;
+      --color-border: #e8e0d5;
+      --color-success: #4a7c59;
+      --color-warning: #c47c3c;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.06);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+      --shadow-lg: 0 8px 24px rgba(0,0,0,0.1);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Zen Kaku Gothic New', 'Noto Sans JP', sans-serif;
+      background: var(--color-bg);
+      color: var(--color-text);
+      line-height: 1.8;
+      font-size: 16px;
+    }
+
+    /* Hero */
+    .hero {
+      background: linear-gradient(135deg, #8b5a2b 0%, #a67c52 50%, #c4a574 100%);
+      color: white;
+      padding: 48px 24px 56px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      opacity: 0.5;
+    }
+
+    .hero-content {
+      position: relative;
+      max-width: 640px;
+      margin: 0 auto;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.25);
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 500;
+      margin-bottom: 16px;
+      letter-spacing: 0.05em;
+    }
+
+    .hero h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      line-height: 1.5;
+      margin-bottom: 12px;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    }
+
+    .hero p {
+      font-size: 0.95rem;
+      opacity: 0.95;
+    }
+
+    /* Container */
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 24px 48px;
+    }
+
+    /* Section */
+    section {
+      margin-top: 40px;
+    }
+
+    section:first-of-type {
+      margin-top: -24px;
+    }
+
+    .section-card {
+      background: var(--color-surface);
+      border-radius: var(--radius-lg);
+      padding: 32px 28px;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--color-border);
+    }
+
+    .section-number {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      background: var(--color-primary);
+      color: white;
+      border-radius: 50%;
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    h2 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: 20px;
+      padding-bottom: 8px;
+      border-bottom: 3px solid var(--color-accent);
+      display: inline-block;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--color-text);
+      margin: 24px 0 12px;
+    }
+
+    p {
+      margin-bottom: 16px;
+      color: var(--color-text);
+    }
+
+    strong {
+      color: var(--color-primary);
+      font-weight: 700;
+    }
+
+    /* Lists */
+    ul, ol {
+      margin: 16px 0 16px 24px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .list-icon {
+      list-style: none;
+      margin-left: 0;
+    }
+
+    .list-icon li {
+      padding-left: 28px;
+      position: relative;
+    }
+
+    .list-icon li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: var(--color-success);
+      font-weight: 700;
+      font-size: 1.1rem;
+    }
+
+    .list-warning li::before {
+      content: '!';
+      color: var(--color-warning);
+    }
+
+    /* Table */
+    .table-wrap {
+      overflow-x: auto;
+      margin: 20px 0;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--color-border);
+      box-shadow: var(--shadow-sm);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+
+    th {
+      background: var(--color-primary);
+      color: white;
+      font-weight: 600;
+      padding: 14px 16px;
+      text-align: left;
+    }
+
+    th:first-child {
+      border-radius: var(--radius-sm) 0 0 0;
+    }
+
+    th:last-child {
+      border-radius: 0 var(--radius-sm) 0 0;
+    }
+
+    td {
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:nth-child(even) {
+      background: rgba(196, 165, 116, 0.08);
+    }
+
+    tr:hover {
+      background: rgba(196, 165, 116, 0.12);
+    }
+
+    /* Callout / Highlight */
+    .callout {
+      background: linear-gradient(135deg, rgba(196, 165, 116, 0.15) 0%, rgba(212, 165, 116, 0.08) 100%);
+      border-left: 4px solid var(--color-primary);
+      padding: 20px 24px;
+      margin: 24px 0;
+      border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    }
+
+    .callout p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* Steps */
+    .steps {
+      counter-reset: step;
+    }
+
+    .step {
+      position: relative;
+      padding-left: 48px;
+      margin-bottom: 28px;
+    }
+
+    .step::before {
+      counter-increment: step;
+      content: counter(step);
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 36px;
+      height: 36px;
+      background: var(--color-accent);
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 1rem;
+    }
+
+    .step h3 {
+      margin-top: 0;
+      margin-bottom: 8px;
+      font-size: 1.05rem;
+    }
+
+    /* Rules list */
+    .rule-item {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 20px;
+      padding: 16px 20px;
+      background: var(--color-surface);
+      border-radius: var(--radius-md);
+      border: 1px solid var(--color-border);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .rule-num {
+      flex-shrink: 0;
+      width: 36px;
+      height: 36px;
+      background: var(--color-primary);
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.9rem;
+    }
+
+    .rule-content h4 {
+      font-size: 1rem;
+      margin-bottom: 6px;
+    }
+
+    .rule-content p {
+      margin-bottom: 0;
+      font-size: 0.95rem;
+    }
+
+    /* Tip box */
+    .tip-box {
+      background: linear-gradient(135deg, #4a7c59 0%, #5a9c69 100%);
+      color: white;
+      padding: 20px 24px;
+      border-radius: var(--radius-md);
+      margin: 24px 0;
+    }
+
+    .tip-box h4 {
+      font-size: 0.95rem;
+      margin-bottom: 8px;
+      opacity: 0.95;
+    }
+
+    .tip-box p, .tip-box ul {
+      margin: 0;
+      font-size: 0.95rem;
+    }
+
+    .tip-box ul {
+      margin-top: 8px;
+    }
+
+    .tip-box li::before {
+      color: rgba(255,255,255,0.9);
+    }
+
+    /* Footer / CTA */
+    .cta-section {
+      text-align: center;
+      padding: 40px 24px;
+      background: linear-gradient(135deg, #8b5a2b 0%, #a67c52 100%);
+      color: white;
+      border-radius: var(--radius-lg);
+      margin-top: 48px;
+    }
+
+    .cta-section h2 {
+      color: white;
+      border-bottom-color: rgba(255,255,255,0.5);
+    }
+
+    .cta-section p {
+      color: rgba(255,255,255,0.95);
+    }
+
+    .cta-section strong {
+      color: white;
+    }
+
+    /* Intro */
+    .intro {
+      background: var(--color-surface);
+      padding: 28px 24px;
+      border-radius: var(--radius-lg);
+      margin-top: -24px;
+      box-shadow: var(--shadow-md);
+      border: 1px solid var(--color-border);
+    }
+
+    .intro-quotes {
+      color: var(--color-text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 16px;
+      line-height: 1.7;
+    }
+
+    .intro-quotes p {
+      margin-bottom: 8px;
+    }
+
+    /* Divider */
+    hr {
+      border: none;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--color-border), transparent);
+      margin: 32px 0;
+    }
+
+    @media (max-width: 600px) {
+      .hero h1 {
+        font-size: 1.35rem;
+      }
+
+      .section-card {
+        padding: 24px 20px;
+      }
+
+      th, td {
+        padding: 10px 12px;
+        font-size: 0.9rem;
+      }
+
+      .rule-item {
+        flex-direction: column;
+        gap: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-content">
+      <span class="hero-badge">こんにちは AirCleです</span>
+      <h1>DIYを検討中の方へ｜賃貸でもゼロから始められる「2025年版」初心者ガイド</h1>
+      <p>なぜ今が始めどきなのか、今日から取りかかれる具体的な進め方をまとめます</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="intro">
+      <div class="intro-quotes">
+        <p>「DIYしてみたいんだけど、何から始めればいいか分からない」</p>
+        <p>「賃貸だから穴を開けられないし、諦めてる」</p>
+        <p>「工具も何を買えばいいか分からない…」</p>
+      </div>
+      <p>そんな声をよく聞きます。実は、<strong>2025年のDIYは「賃貸でも・未経験でも・少額でも」始めやすい</strong>環境が整っています。突っ張り式パーツの進化や100均素材の充実で、穴を開けずにできるプロジェクトが増えているのです。</p>
+      <p>この記事では、DIYを検討している方に向けて、<strong>なぜ今が始めどきなのか</strong>と<strong>今日から取りかかれる具体的な進め方</strong>をまとめます。</p>
+    </div>
+
+    <section>
+      <div class="section-card">
+        <div class="section-number">0</div>
+        <h2>先に結論：DIYは「小さく」始めるのが正解</h2>
+        <p>DIYで失敗する人の多くは、いきなり大きなプロジェクトに手を出しています。棚を自作する、壁を塗り替える——気持ちは分かりますが、初心者にはハードルが高すぎます。</p>
+        <div class="callout">
+          <p><strong>成功のコツは「小さく始める」こと</strong>です。</p>
+        </div>
+        <ul class="list-icon">
+          <li>100均の小物をリメイクする</li>
+          <li>組立キットで感覚を掴む</li>
+          <li>賃貸対応の突っ張り式収納から試す</li>
+        </ul>
+        <p>「小さな成功体験」を積むことで、次のステップに自信を持って進められます。まずは、<strong>今日中にできる小さなプロジェクト</strong>から始めましょう。</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-card">
+        <div class="section-number">1</div>
+        <h2>なぜ「DIYを検討している」今が、始めるベストタイミングなのか</h2>
+        <p>検索しているということは、すでに「やってみたい」という気持ちがある証拠です。</p>
+
+        <h3>2025年、DIYが始めやすい理由</h3>
+
+        <div class="rule-item">
+          <span class="rule-num">①</span>
+          <div class="rule-content">
+            <h4>賃貸対応「原状回復」DIYの進化</h4>
+            <p>ラブリコやディアウォールなど、突っ張り式パーツが進化し、細めの材料や金属素材にも対応。剥がせる壁紙も改良され、<strong>穴を開けずに施工できる</strong>選択肢が増えています。2025年の原状回復ルール改訂以降、賃貸でも「傷をつけないDIY」へのニーズが高まっています。</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <span class="rule-num">②</span>
+          <div class="rule-content">
+            <h4>アップサイクル（家具リメイク）のブーム</h4>
+            <p>古い家具を削り直して再塗装するなど、環境配慮と個性表現を両立。100均素材を活用した「新旧ミックス」がキーワードです。<strong>既存のものを活かす</strong>ので、ゼロから作るよりハードルが低いです。</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <span class="rule-num">③</span>
+          <div class="rule-content">
+            <h4>プチプラDIYの定着</h4>
+            <p>100均・カインズの素材で、アイアンペイントやミルクペイントを活用。重曹を混ぜた漆喰風塗装なども初心者向けとして人気です。<strong>少額で雰囲気のある空間</strong>づくりが可能になりました。</p>
+          </div>
+        </div>
+
+        <h3>DIYを「調べているだけ」の人が陥りがちなパターン</h3>
+        <ol>
+          <li><strong>情報が多すぎて、何から手をつければいいか分からない</strong></li>
+          <li><strong>「工具を揃えるのにお金がかかりそう」と感じる</strong></li>
+          <li><strong>「不器用だから無理」と決めつけている</strong></li>
+          <li><strong>賃貸だから諦めている</strong></li>
+        </ol>
+        <div class="callout">
+          <p>この記事を読んでいるあなたは、すでに1歩目を踏み出しています。あとは「最初の1作品」を決めるだけです。</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-card">
+        <div class="section-number">2</div>
+        <h2>DIYの3つの入口：自分に合う「始め方」を選ぶ</h2>
+        <p>初心者向けに、入口を3パターンに分けて整理します。</p>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>タイプ</th>
+                <th>特徴</th>
+                <th>おすすめの人</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>賃貸対応・突っ張り式</strong></td>
+                <td>穴を開けず、撤去も簡単</td>
+                <td>賃貸住まい、引っ越しの可能性がある人</td>
+              </tr>
+              <tr>
+                <td><strong>組立キット</strong></td>
+                <td>設計が済んでいる、説明書通りに組み立てる</td>
+                <td>まずは形にしたい、失敗したくない人</td>
+              </tr>
+              <tr>
+                <td><strong>100均リメイク</strong></td>
+                <td>少額で試せる、失敗してもダメージが小さい</td>
+                <td>まずは感覚を掴みたい人</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p>どれか1つに絞る必要はありません。<strong>「今週は100均リメイク、来月は突っ張り棚」</strong>のように、段階的に広げていくのがおすすめです。</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-card">
+        <div class="section-number">3</div>
+        <h2>今日から始める3つのステップ</h2>
+        <p>DIYを「検討」から「着手」に進めるための、具体的な手順です。</p>
+
+        <div class="steps">
+          <div class="step">
+            <h3>最初のプロジェクトを1つ決める（15分）</h3>
+            <p>「何を作りたいか」より<strong>「何ができそうか」</strong>で選びましょう。</p>
+            <p><strong>初心者におすすめのスタート例：</strong></p>
+            <ul class="list-icon">
+              <li>100均の引き出しをリメイクシートで貼り替える</li>
+              <li>突っ張り棒＋棚板で簡易収納を作る</li>
+              <li>家具の取っ手だけ交換する（ドライバー1本でできる）</li>
+              <li>壁にマスキングテープで模様をつける（剥がせるタイプ）</li>
+            </ul>
+            <p><strong>避けた方がいいスタート：</strong></p>
+            <ul class="list-icon list-warning">
+              <li>大きな棚を一から自作する</li>
+              <li>壁に下地処理から塗装する</li>
+              <li>電気工事を伴うDIY</li>
+            </ul>
+          </div>
+
+          <div class="step">
+            <h3>最低限の道具を揃える（5,000円以内で可能）</h3>
+            <p>最初は「全部揃えよう」と思わなくて大丈夫です。<strong>プロジェクトごとに必要なものを買い足す</strong>方が、無駄がありません。</p>
+            <p><strong>最初に揃えたい基本セット：</strong></p>
+            <ul class="list-icon">
+              <li>ドライバーセット（プラス・マイナス両方）</li>
+              <li>メジャー（コンベックス）</li>
+              <li>カッター、はさみ</li>
+              <li>マスキングテープ</li>
+              <li>作業用手袋（薄手）</li>
+            </ul>
+            <p>電動ドライバー（インパクトドライバー）は、2〜3作品目以降で検討すれば十分です。100均＋ホームセンターで、5,000円以内に収まります。</p>
+          </div>
+
+          <div class="step">
+            <h3>動画で「流れ」を確認してから着手する</h3>
+            <p>いきなり作り始めると、途中で詰まることが多いです。<strong>YouTubeで類似プロジェクトを1本だけ見てから</strong>始めると、成功率が上がります。</p>
+            <p>「〇〇 DIY 初心者」「〇〇 100均 リメイク」で検索すれば、多くの例があります。人気の作例を「完コピ」するのも、基礎を体で学ぶ良い方法です。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-card">
+        <div class="section-number">4</div>
+        <h2>賃貸でDIYするときの5つのルール</h2>
+        <p>賃貸の場合、<strong>原状回復を損なわない</strong>ことが最優先です。</p>
+
+        <div class="rule-item">
+          <span class="rule-num">1</span>
+          <div class="rule-content">
+            <h4>穴は開けない（突っ張り・粘着・マグネットを活用）</h4>
+            <p>釘やネジで壁に穴を開けると、退去時に修繕費用がかかります。突っ張り棒、粘着フック、マグネットボードなど、<strong>穴を開けずに固定する</strong>方法を選びましょう。</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <span class="rule-num">2</span>
+          <div class="rule-content">
+            <h4>壁に当てる部分は保護する</h4>
+            <p>突っ張り棒を使う場合、接点に<strong>保護パッドや滑り止めシート</strong>を挟むと、壁のへこみを防げます。強く回しすぎず、「手で回して軽く止まる位置」で留めるのがコツです。</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <span class="rule-num">3</span>
+          <div class="rule-content">
+            <h4>剥がせる壁紙・クロスを使う</h4>
+            <p>貼り替え用の壁紙や、マスキングテープで模様をつける場合は、<strong>剥がせるタイプ</strong>を選びましょう。施工前に説明書で「原状回復可能か」を確認してください。</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <span class="rule-num">4</span>
+          <div class="rule-content">
+            <h4>計測はミリ単位で正確に</h4>
+            <p>「だいたい」で切ると、隙間ができたり入らなかったりします。<strong>メジャーで正確に測り、切り忘れに注意</strong>するだけで、仕上がりが格段に良くなります。</p>
+          </div>
+        </div>
+
+        <div class="rule-item">
+          <span class="rule-num">5</span>
+          <div class="rule-content">
+            <h4>大家・管理会社のルールを確認する</h4>
+            <p>賃貸契約書や管理規約で、「釘・ネジの使用」「壁の変更」についてどう書かれているか、一度確認しておくと安心です。不安な場合は、管理会社に問い合わせることをおすすめします。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-card">
+        <div class="section-number">5</div>
+        <h2>DIYを続けるコツ：小さな成功を積み重ねる</h2>
+        <p>最初の1作品がうまくいくと、次の意欲につながります。</p>
+
+        <ul class="list-icon">
+          <li><strong>写真を撮って残す</strong>：Before/Afterを比較すると、達成感が得られます</li>
+          <li><strong>SNSでシェアする</strong>：同じ趣味を持つ人とつながると、モチベーションが維持しやすい</li>
+          <li><strong>1つ完成してから次を考える</strong>：同時に複数やりたくなっても、1つずつ仕上げる</li>
+        </ul>
+
+        <div class="callout">
+          <p>「完璧」を目指さず、<strong>「使えるものになった」</strong>で十分です。プロ並みの仕上がりは、数をこなしていけば自然についてきます。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-section">
+      <div class="section-number">6</div>
+      <h2>まとめ：DIYは「作る」より「始める」が9割</h2>
+      <p>DIYのハードルは、思っているより低いです。</p>
+      <ul class="list-icon" style="text-align: left; max-width: 400px; margin: 20px auto;">
+        <li><strong>賃貸でも</strong>、突っ張り式・剥がせる素材で取り組める</li>
+        <li><strong>道具は</strong>、5,000円以内でスタート可能</li>
+        <li><strong>成功のコツは</strong>、小さく始めて、小さな成功を積み重ねること</li>
+      </ul>
+      <p>「いつかやってみたい」と思っているあなたは、すでにスタートラインに立っています。次の一歩は、<strong>最初のプロジェクトを1つ決めること</strong>、または<strong>100均で材料を1つ買ってみること</strong>です。</p>
+      <p><strong>自分の手で何かを作り、空間を変える——その第一歩を、今日踏み出してみませんか。</strong></p>
+    </section>
+  </main>
+</body>
+</html>

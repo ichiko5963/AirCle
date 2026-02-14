@@ -458,9 +458,23 @@
               "icon": "lucide-file",
               "title": "Lecture 15_デプロイと公開（世界へ）"
             }
+          },
+          {
+            "id": "278b3d51b075028e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Project/X投稿テンプレート50個.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "X投稿テンプレート50個"
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -643,38 +657,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98a058f33078c2d0",
+  "active": "278b3d51b075028e",
   "lastOpenFiles": [
+    "04_Project/X投稿具体例50個.md",
+    "04_Project/マーケティング体系化ドキュメント.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-02 18.33.44.excalidraw.md",
+    "02_Config/Pasted Image 20260203123638_045.png",
+    "02_Config/Pasted Image 20260203122810_225.png",
+    "02_Config/Pasted Image 20260203122637_470.png",
+    "02_Config/Pasted Image 20260203122610_879.png",
+    "02_Config/Pasted Image 20260203122450_859.png",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-11 10.13.49.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-11 19.58.29.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-12 09.03.46.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-14 20.23.33.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-16 16.05.35.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-16 16.12.51.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-20 09.48.46.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.27.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2026-01-07 12.14.24.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-12-02 15.31.03.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-12-02 15.31.02.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-24 14.35.11.excalidraw.md",
+    "02_Config/Plugins/Excalidraw/Drawing 2025-11-16 16.05.02.excalidraw.md",
+    "Excalidraw/無題のファイル.md",
+    "Excalidraw/【図解】0-基本のメモの取り方.md",
+    "Excalidraw/【図解】部下への叱り方.md",
+    "Excalidraw/【図解】2-人間が物事を身につけるまで.md",
+    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/03_宿題/VibeCoding宿題0_事前準備.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/03_宿題/VibeCoding宿題5_講義5.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/02_原稿/講義5_原稿.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/01_スライド構成/講義5_スライド構成.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/03_宿題/VibeCoding宿題4_講義4.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/02_原稿/講義4_原稿.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/01_スライド構成/講義4_スライド構成.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/03_宿題/VibeCoding宿題3_講義3.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/02_原稿/講義3_原稿.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/01_スライド構成/講義3_スライド構成.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/03_宿題/VibeCoding宿題2_講義2.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/02_原稿/講義2_原稿.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/01_スライド構成/講義2_スライド構成.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/03_宿題/VibeCoding宿題1_講義1.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/02_原稿/講義1_原稿.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/01_スライド構成/講義1_スライド構成.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/02_原稿/Lecture1_原稿.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/01_スライド構成/Lecture1_スライド構成.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/03_宿題",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/02_原稿",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/01_スライド構成",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/【完全版】バイブコーディング完全攻略_15回講座.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 14_GitHubの使い方〜完全攻略〜.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 15_デプロイと公開（世界へ）.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 13_理論武装.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 12_バイブコーディングの全流れ.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 11_AI統合（Gemini API）.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/無題のフォルダ",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 10_外部データ連携（API）.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 9_認証とセキュリティ.md",
-    "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ/Lecture 6_重機を操る.md",
     "04_Project/AirCle/3_イベント運営/AIrCleバイブコーディングワークショップ",
     "02_Config/AirCle：ロゴ_1.png",
     "02_Config/Pasted Image 20260107210741_161.png",
@@ -683,14 +702,9 @@
     "02_Config/Pasted Image 20260107121443_976.png",
     "01_Notes/無題のファイル 1.base",
     "04_Project/ClimbBeyond/X運用講座_0→1000フォロワー完全攻略",
-    "02_Config/Pasted image 20251214161040.png",
     "01_Notes/無題のファイル.base",
-    "02_Config/CleanShot 2025-12-14 at 15.56.00@2x.png",
     "04_Project/AirCle/6_登壇/Gemini 3.0 × NotebookLM で学び方が変わる/02_イベント企画",
     "04_Project/AirCle/6_登壇/Gemini 3.0 × NotebookLM で学び方が変わる/01_スライド資料",
-    "02_Config/CleanShot 2025-12-12 at 04.05.05@2x.png",
-    "02_Config/Pasted Image 20251208211119_824.png",
-    "02_Config/Pasted Image 20251208210930_790.png",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas"
   ]
