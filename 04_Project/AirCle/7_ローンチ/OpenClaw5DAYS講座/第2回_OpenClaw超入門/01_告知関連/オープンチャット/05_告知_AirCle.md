@@ -22,7 +22,7 @@
 前回は5時間で500名申込。枠が埋まる可能性が高いです。
 
 📅 3月8日（日）20:00〜22:00
-👉 [PeatixURL]
+👉 https://openclaw2.peatix.com
 
 ---
 
@@ -43,7 +43,7 @@ Obsidian Guildの皆さんに、OpenClaw超入門のご案内です！
 Guildで蓄積してきた皆さんだからこそ、価値がわかる内容です！
 
 📅 3月8日（日）20:00〜22:00
-👉 [PeatixURL]
+👉 https://openclaw2.peatix.com
 
 ---
 
@@ -64,4 +64,4 @@ OpenClaw Guildの皆さんに、超入門回のご案内です！
 紹介用にも使える内容です！お早めにどうぞ。
 
 📅 3月8日（日）20:00〜22:00
-👉 [PeatixURL]
+👉 https://openclaw2.peatix.com
