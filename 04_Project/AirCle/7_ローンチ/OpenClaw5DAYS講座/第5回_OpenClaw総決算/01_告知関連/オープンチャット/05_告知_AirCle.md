@@ -22,4 +22,4 @@
 枠が埋まる可能性が高いです。
 
 📅 3月29日（日）20:00〜24:00
-👉 [PeatixURL]
+👉 https://openclaw5.peatix.com/
