@@ -1,13 +1,19 @@
 # Xステップ用 ── 条件達成者へ送る自動送信文（OpenClaw 10時間プレゼント）
 
 **用途**：Xの自動化ツール（例：条件付きDM、キーワード返信、外部連携）で「フォロー＋いいね＋RT」など**条件を満たした人**に送る  
-**ゴール**：下記Googleフォームに回答 → **送信完了画面ですぐ**アーカイブ＆noteのリンクが表示される動線へ誘導
+
+**ゴール（動線）**  
+1. Googleフォーム回答 → **送信完了画面ですぐ**アーカイブ＆noteのリンクを受け取る  
+2. 続けて **3/29（日）20:00〜 第5回・OpenClaw総決算セミナー** を Peatix で申し込む（アーカイブの「次の一歩」として自然に引っ張る）
 
 **フォームURL（固定）**  
 https://docs.google.com/forms/d/e/1FAIpQLSdODhOyVeRp0Gg92Yr9nWHZvmcIB61F9S4NbiJQ-9vxEttzFg/viewform?usp=dialog
 
 **公式LINE（フォーム必須項目と一致）**  
 https://lin.ee/A3n5S0d
+
+**第5回・OpenClaw総決算セミナー（3/29）申込（Peatix）**  
+https://openclaw5.peatix.com/
 
 ---
 
@@ -36,7 +42,18 @@ https://lin.ee/A3n5S0d
 
 引用リツイートしてくれた方は、完了画面の案内どおりに進めれば「1万字超・完全復習ガイド」も対象です。
 
-#OpenClaw #AirCle #OpenClaw5DAYS #AIエージェント #Obsidian
+────────────
+【次の一手】第5回・OpenClaw総決算セミナー（3/29）
+
+特典のアーカイブは「第1〜4回までの土台」を一気に入れるための10時間超です。
+そこから先、**全部をつなげて「OpenClawの全体像をライブで仕上げる」**のが、**3月29日（日）20:00〜** の**第5回・総決算セミナー**です（無料・要申込）。
+
+アーカイブで頭に入れた内容が、当日のデモと話で一気に腹落ちします。**フォームで特典を受け取ったら、そのままの勢いで申込だけ済ませておいてください。** 当日の配信URLは Peatix 登録後に案内が届きます。
+
+▼ 3/29 総決算セミナー・お申し込み（Peatix）
+https://openclaw5.peatix.com/
+
+#OpenClaw #AirCle #OpenClaw5DAYS #OpenClaw総決算 #3月29日 #AIエージェント #Obsidian
 ```
 
 ---
@@ -56,7 +73,7 @@ https://lin.ee/A3n5S0d
 **【2通目】**
 
 ```
-▼ 受け取りフォーム
+▼ ① 受け取りフォーム（回答直後にリンク表示）
 https://docs.google.com/forms/d/e/1FAIpQLSdODhOyVeRp0Gg92Yr9nWHZvmcIB61F9S4NbiJQ-9vxEttzFg/viewform?usp=dialog
 
 面倒に感じても、ここで受け取らないと損します。必ず今のうちに回答を。
@@ -65,8 +82,16 @@ https://docs.google.com/forms/d/e/1FAIpQLSdODhOyVeRp0Gg92Yr9nWHZvmcIB61F9S4NbiJQ
 https://lin.ee/A3n5S0d
 
 引用RT済みは完了画面で追加特典の条件も確認を。
+```
 
-#OpenClaw #AirCle #OpenClaw5DAYS
+**【3通目】（任意・総決算へ引っ張る）**
+
+```
+▼ ② 3/29（日）20:00〜 第5回・OpenClaw総決算セミナー
+アーカイブの続き＝全部つなげる回。無料・Peatixで申込👇
+https://openclaw5.peatix.com/
+
+#OpenClaw #AirCle #OpenClaw総決算 #3月29日
 ```
 
 ---
@@ -75,10 +100,11 @@ https://lin.ee/A3n5S0d
 
 ```
 いちです。条件クリアありがとうございます🔥
-フォーム回答直後に特典URL全部出ます。今すぐ👇
+①フォーム→回答直後に特典URL全部👇
 https://docs.google.com/forms/d/e/1FAIpQLSdODhOyVeRp0Gg92Yr9nWHZvmcIB61F9S4NbiJQ-9vxEttzFg/viewform?usp=dialog
-（要：公式LINE https://lin.ee/A3n5S0d ）
-#OpenClaw #AirCle
+（要LINE https://lin.ee/A3n5S0d ）
+②3/29総決算👇 https://openclaw5.peatix.com/
+#OpenClaw #AirCle #OpenClaw総決算
 ```
 
 ---
@@ -102,6 +128,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdODhOyVeRp0Gg92Yr9nWHZvmcIB61F9S4NbiJQ
 
 ※中で「公式LINEに登録した」と答えられる状態にしてから送信してください（必須チェックあり）
 https://lin.ee/A3n5S0d
+
+そのあと **3/29（日）20:00〜 総決算セミナー** も一緒に押さえておくと動線が完結します👇
+https://openclaw5.peatix.com/
 ```
 
 ---
@@ -115,7 +144,10 @@ https://lin.ee/A3n5S0d
 回答完了画面にリンク全部出ます。今から1分で👇
 https://docs.google.com/forms/d/e/1FAIpQLSdODhOyVeRp0Gg92Yr9nWHZvmcIB61F9S4NbiJQ-9vxEttzFg/viewform?usp=dialog
 
-#OpenClaw #AirCle
+フォーム済みの方は、3/29総決算の申込だけ忘れずに👇
+https://openclaw5.peatix.com/
+
+#OpenClaw #AirCle #OpenClaw総決算
 ```
 
 ---
@@ -124,4 +156,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSdODhOyVeRp0Gg92Yr9nWHZvmcIB61F9S4NbiJQ
 
 - 実際のフォームは **回答直後にプレゼント表示** と説明が一致していること（Googleフォームの「送信後のメッセージ」にリンク済み）。
 - **引用RT限定の1万字ガイド**は「完了画面＋DM」運用なら、その旨を1行入れるとクレームが減る。
+- **Peatix（総決算）**の日時・文言は [Peatixイベント](https://openclaw5.peatix.com/) 側の表記と揃える（例：3月29日（日）20:00〜24:00）。
 - Xの自動DMはスパム扱いされやすいので、**条件達成から数分遅延**や**1日送信上限**をツール側で設定推奨。
