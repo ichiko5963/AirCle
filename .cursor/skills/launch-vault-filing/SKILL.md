@@ -48,4 +48,5 @@ description: >-
 ## Extended reference
 
 - `04_Project/AirCle/7_ローンチ/00_Skills/ローンチ・ボルト運用ガイド.md` … 各回フォルダの正本
-- `04_Project/AirCle/7_ローンチ/00_Skills/有料スクール_LINEステップ配信_フロー.md` … `02_有料スクール/01_LINE_ステップ配信・申込後` の分類と Mermaid
+- `04_Project/AirCle/7_ローンチ/00_Skills/有料スクール_LINEステップ配信_フロー.md` … `01_LINE_ステップ配信・申込後` の分類と Mermaid
+- `02_無料5DAYS終了後_審査面談申込まで/` … **第N回フォルダ**（Day3〜5 有料詳細＋A-1）と **`00_全回共通`**（A-2〜A-6）。索引 `Aシリーズ_インデックス.md`
