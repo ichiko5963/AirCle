@@ -3,7 +3,7 @@ name: launch-vault-filing
 description: >-
   Files AirCle ローンチ関連ノート into 04_Project/AirCle/7_ローンチ using the
   numbered session folders (00セミナー概要 / 01告知 / 02スライド / 03ミーティング /
-  04次回アクション / 05実績 / 06講座内容). Use when the user adds meeting notes,
+  04次回アクション / 05講座内容). Use when the user adds meeting notes,
   slide drafts, launch tasks, or asks where to put ローンチ・5DAYS・セミナー materials.
   Read 7_ローンチ/00_Skills/ローンチ・ボルト運用ガイド.md for the canonical rules.
 ---
@@ -23,9 +23,8 @@ description: >-
 | 01 | `01_告知関連` | X / LINE / オプチャ / メルマガ / Peatix などチャネル別 |
 | 02 | `02_スライド` | スライド用原稿・構成案・スピーカーノート相当（旧 `02_運営関連` は廃止） |
 | 03 | `03_ミーティング` | **1会議1ファイル**。決定・宿題・次回までの論点のみ |
-| 04 | `04_次回以降のアクション` | MTG外のタスク一覧・フォロー・分析メモ（期限・担当があれば明記） |
-| 05 | `05_実績アーカイブ` | 数字・スクショ・振り返りの記録 |
-| 06 | `06_講座内容` | （ある場合のみ）当日の講義コンテンツ本体 |
+| 04 | `04_次回以降のアクション` | MTG外のタスク・フォロー・分析・**申込・参加などの数字**（期限・担当があれば明記） |
+| 05 | `05_講座内容` | （ある場合のみ）当日の講義コンテンツ本体 |
 
 ## After a meeting（必須フロー）
 
@@ -48,4 +47,5 @@ description: >-
 
 ## Extended reference
 
-Read: `04_Project/AirCle/7_ローンチ/00_Skills/ローンチ・ボルト運用ガイド.md`
+- `04_Project/AirCle/7_ローンチ/00_Skills/ローンチ・ボルト運用ガイド.md` … 各回フォルダの正本
+- `04_Project/AirCle/7_ローンチ/00_Skills/有料スクール_LINEステップ配信_フロー.md` … `02_有料スクール/01_LINE_ステップ配信・申込後` の分類と Mermaid
